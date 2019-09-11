@@ -1,4 +1,4 @@
-#Simple Bash Shell Priority Changer Script
+## Simple Bash Shell Priority Changer Script
 
 #### README - EN/HU
 
